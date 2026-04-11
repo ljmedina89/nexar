@@ -211,11 +211,13 @@ window.SITE_DATA = {
       "imagen": "assets/img/16.png",
       "etiqueta": "Oferta",
       "destacado": false
-    },
-    window.SITE_DATA = {
+    }
+
+    ],
+  window.SITE_DATA = {
   "config": {
     "storeName": "Nexar",
-    "whatsapp": "19296274119",
+    "whatsapp": "19292797800",
     "whatsappMessageDefault": "Hola, quiero información sobre sus productos.",
     "currency": "USD"
   },
