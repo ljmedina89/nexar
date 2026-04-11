@@ -189,31 +189,8 @@ window.SITE_DATA = {
       "imagen": "assets/img/16.png",
       "etiqueta": "Oferta",
       "destacado": false
-    },
-    {
-      "id": 17,
-      "nombre": "Licra Deportiva Niña",
-      "categoria": "Ropa",
-      "descripcion": "Talla XL",
-      "precio_original": 24.99,
-      "precio_oferta": 17.99,
-      "imagen": "assets/img/16.png",
-      "etiqueta": "Oferta",
-      "destacado": false
-    },
-    {
-      "id": 18,
-      "nombre": "chompa",
-      "categoria": "Ropa",
-      "descripcion": "Talla L",
-      "precio_original": 20.99,
-      "precio_oferta": 17.99,
-      "imagen": "assets/img/16.png",
-      "etiqueta": "Oferta",
-      "destacado": false
     }
-
-    ],
+      ],
   window.SITE_DATA = {
   "config": {
     "storeName": "Nexar",
