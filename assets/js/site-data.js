@@ -8,7 +8,7 @@ window.SITE_DATA = {
   "products": [
     {
       "id": 1,
-      "nombre": "Buzo Calvin Klein Hombre",
+      "nombre": "Buzo Calvin Klein Mujer",
       "categoria": "Ropa",
       "descripcion": "Talla XS",
       "precio_original": 88.99,
