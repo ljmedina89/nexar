@@ -1,4 +1,4 @@
- window.SITE_DATA = {
+window.SITE_DATA = {
   "config": {
     "storeName": "Nexar",
     "whatsapp": "19292797800",
@@ -247,5 +247,3 @@
     }
   ]
 };
-
-  
