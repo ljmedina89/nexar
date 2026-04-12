@@ -208,7 +208,7 @@ window.SITE_DATA = {
       "descripcion": "fragancia locion",
       "precio_original": 23.99,
       "precio_oferta": 12.99,
-      "imagen": "assets/img/18.JPG",
+      "imagen": "assets/img/18.jpeg",
       "etiqueta": "Oferta",
       "destacado": false
     },
@@ -219,7 +219,7 @@ window.SITE_DATA = {
       "descripcion": "brillo de labios",
       "precio_original": 13.99,
       "precio_oferta": 8.99,
-      "imagen": "assets/img/19.JPG",
+      "imagen": "assets/img/19.jpeg",
       "etiqueta": "Oferta",
       "destacado": false
     }
