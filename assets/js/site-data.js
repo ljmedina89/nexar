@@ -189,7 +189,7 @@ window.SITE_DATA = {
       "imagen": "assets/img/16.png",
       "etiqueta": "Oferta",
       "destacado": false
-    }
+    },
 {
       "id": 17,
       "nombre": "victoria's secret",
