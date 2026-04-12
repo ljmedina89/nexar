@@ -193,11 +193,31 @@ window.SITE_DATA = {
 {
       "id": 17,
       "nombre": "victoria's secret",
-      "categoria": "perfumeria corpotal",
-      "descripcion": "fragracia",
+      "categoria": "perfumeria",
+      "descripcion": "fragancia corporal",
       "precio_original": 23.99,
       "precio_oferta": 12.99,
       "imagen": "assets/img/17.png.JPG",
+      "etiqueta": "Oferta",
+      "destacado": false
+    }{
+      "id": 18,
+      "nombre": "victoria's secret",
+      "categoria": "perfumeria",
+      "descripcion": "fragancia locion",
+      "precio_original": 23.99,
+      "precio_oferta": 12.99,
+      "imagen": "assets/img/18.JPG",
+      "etiqueta": "Oferta",
+      "destacado": false
+    }{
+      "id": 19,
+      "nombre": "victoria's secret",
+      "categoria": "Labiales",
+      "descripcion": "brillo de labios",
+      "precio_original": 13.99,
+      "precio_oferta": 8.99,
+      "imagen": "assets/img/19.JPG",
       "etiqueta": "Oferta",
       "destacado": false
     }
