@@ -195,9 +195,9 @@ window.SITE_DATA = {
       "nombre": "victoria's secret",
       "categoria": "perfumeria",
       "descripcion": "fragracia",
-      "precio_original": 17.99,
+      "precio_original": 25.00,
       "precio_oferta": 12.99,
-      "imagen": "assets/img/18.jpg",
+      "imagen": "assets/img/17.png.JPG",
       "etiqueta": "Oferta",
       "destacado": false
     }
