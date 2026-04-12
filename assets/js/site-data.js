@@ -197,7 +197,7 @@ window.SITE_DATA = {
       "descripcion": "fragracia",
       "precio_original": 17.99,
       "precio_oferta": 12.99,
-      "imagen": "assets/img/17.png.jng",
+      "imagen": "assets/img/18.jpg",
       "etiqueta": "Oferta",
       "destacado": false
     }
