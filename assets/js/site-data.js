@@ -189,17 +189,19 @@ window.SITE_DATA = {
       "imagen": "assets/img/16.png",
       "etiqueta": "Oferta",
       "destacado": false
-    }{
+    },
+    {
       "id": 17,
       "nombre": "victoria's secret",
       "categoria": "perfumeria",
       "descripcion": "fragancia corporal",
       "precio_original": 23.99,
       "precio_oferta": 12.99,
-      "imagen": "assets/img/17.png.JPG",
+      "imagen": "assets/img/17.jpeg",
       "etiqueta": "Oferta",
       "destacado": false
-    }{
+    },
+      {
       "id": 18,
       "nombre": "victoria's secret",
       "categoria": "perfumeria",
@@ -209,7 +211,8 @@ window.SITE_DATA = {
       "imagen": "assets/img/18.JPG",
       "etiqueta": "Oferta",
       "destacado": false
-    }{
+    },
+      {
       "id": 19,
       "nombre": "victoria's secret",
       "categoria": "Labiales",
