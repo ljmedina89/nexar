@@ -193,7 +193,7 @@ window.SITE_DATA = {
 {
       "id": 17,
       "nombre": "victoria's secret",
-      "categoria": "perfumeria",
+      "categoria": "perfumeria corpotal",
       "descripcion": "fragracia",
       "precio_original": 23.99,
       "precio_oferta": 12.99,
