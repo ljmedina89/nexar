@@ -252,7 +252,7 @@ window.SITE_DATA = {
       "descripcion": "fragancia corporal",
       "precio_original": 23.99,
       "precio_oferta": 12.99,
-      "imagen": "assets/img/22.jpeg",
+      "imagen": "assets/img/22.jpg",
       "etiqueta": "Oferta",
       "destacado": false
     },
@@ -263,7 +263,7 @@ window.SITE_DATA = {
       "descripcion": "fragancia locion",
       "precio_original": 23.99,
       "precio_oferta": 12.99,
-      "imagen": "assets/img/23.jpeg",
+      "imagen": "assets/img/23.jpg",
       "etiqueta": "Oferta",
       "destacado": false 
     },
@@ -274,7 +274,7 @@ window.SITE_DATA = {
       "descripcion": "brillo de labios",
       "precio_original": 13.99,
       "precio_oferta": 8.99,
-      "imagen": "assets/img/24.jpeg",
+      "imagen": "assets/img/24.jpg",
       "etiqueta": "Oferta",
       "destacado": false
     },
@@ -285,7 +285,7 @@ window.SITE_DATA = {
       "descripcion": "brillo de labios",
       "precio_original": 13.99,
       "precio_oferta": 8.99,
-      "imagen": "assets/img/25.jpeg",
+      "imagen": "assets/img/25.jpg",
       "etiqueta": "Oferta",
       "destacado": false
     }
