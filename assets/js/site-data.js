@@ -233,6 +233,61 @@ window.SITE_DATA = {
       "imagen": "assets/img/20.jpeg",
       "etiqueta": "Oferta",
       "destacado": false
+    },
+      {
+      "id": 21,
+      "nombre": "victoria's secret",
+      "categoria": "perfumeria",
+      "descripcion": "fragancia locion",
+      "precio_original": 23.99,
+      "precio_oferta": 12.99,
+      "imagen": "assets/img/21.jpeg",
+      "etiqueta": "Oferta",
+      "destacado": false
+    },
+      {
+      "id": 22,
+      "nombre": "victoria's secret",
+      "categoria": "perfumeria",
+      "descripcion": "fragancia corporal",
+      "precio_original": 23.99,
+      "precio_oferta": 12.99,
+      "imagen": "assets/img/22.jpeg",
+      "etiqueta": "Oferta",
+      "destacado": false
+    },
+      {
+      "id": 23
+      "nombre": "victoria's secret",
+      "categoria": "perfumeria",
+      "descripcion": "fragancia locion",
+      "precio_original": 23.99,
+      "precio_oferta": 12.99,
+      "imagen": "assets/img/23.jpeg",
+      "etiqueta": "Oferta",
+      "destacado": false 
+    },
+      {
+      "id": 24,
+      "nombre": "victoria's secret",
+      "categoria": "Labiales",
+      "descripcion": "brillo de labios",
+      "precio_original": 13.99,
+      "precio_oferta": 8.99,
+      "imagen": "assets/img/24.jpeg",
+      "etiqueta": "Oferta",
+      "destacado": false
+    },
+      {
+      "id": 25,
+      "nombre": "victoria's secret",
+      "categoria": "Labiales",
+      "descripcion": "brillo de labios",
+      "precio_original": 13.99,
+      "precio_oferta": 8.99,
+      "imagen": "assets/img/25.jpeg",
+      "etiqueta": "Oferta",
+      "destacado": false
     }
 
   ],
