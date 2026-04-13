@@ -223,7 +223,7 @@ window.SITE_DATA = {
       "etiqueta": "Oferta",
       "destacado": false
     },
-    {
+      {
       "id": 20,
       "nombre": "victoria's secret",
       "categoria": "perfumeria",
@@ -257,7 +257,7 @@ window.SITE_DATA = {
       "destacado": false
     },
       {
-      "id": 23
+      "id": 23,
       "nombre": "victoria's secret",
       "categoria": "perfumeria",
       "descripcion": "fragancia locion",
