@@ -222,6 +222,17 @@ window.SITE_DATA = {
       "imagen": "assets/img/19.jpeg",
       "etiqueta": "Oferta",
       "destacado": false
+    },
+    {
+      "id": 20,
+      "nombre": "victoria's secret",
+      "categoria": "perfumeria",
+      "descripcion": "fragancia corporal",
+      "precio_original": 23.99,
+      "precio_oferta": 12.99,
+      "imagen": "assets/img/20.jpeg",
+      "etiqueta": "Oferta",
+      "destacado": false
     }
 
   ],
